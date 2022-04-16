@@ -60,7 +60,6 @@
             android:padding="3dp"
             android:layout_margin="4dp"/>
 
-
     </RelativeLayout>
 
 </androidx.cardview.widget.CardView>
